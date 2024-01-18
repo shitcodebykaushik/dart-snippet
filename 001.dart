@@ -1,3 +1,4 @@
+ import 'dart:math' ;
 void main(){
   
   print("kaushik"); //Print is keyword that will output whatever you want o debug console.
@@ -5,4 +6,6 @@ void main(){
 print("2+4");
 print("72-8");
 print ("58/2");
+  print(max(5,10));
+ 
 }
