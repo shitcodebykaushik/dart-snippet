@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+
+
  import 'dart:math' ;
 void main(){
 
@@ -39,4 +39,4 @@ a boy.''';
 print(kau);
 print("change1");
 }
->>>>>>> parent of ce3c052 (testing 004')
+
